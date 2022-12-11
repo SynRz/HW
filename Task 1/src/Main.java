@@ -1,5 +1,5 @@
 public class Main {
-    //  asd
+    //  asdsdsdf
     public static void main(String[] args) {
         int toadEyesCount = 0;          //Жабьи глаза
         int ghoulTearsCount = 0;        //Слезы вурдалака
